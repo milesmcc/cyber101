@@ -1,0 +1,3 @@
+# Cybersecurity and Hacking
+
+Consider a (slightly generalized) comparison: computer engineers create systems, security engineers secure those systems. While the perfect computer engineer would design perfect systems — entirely free of bugs, and security vulnerabilities _are_ bugs — no such engineers exist. It therefore becomes the responsibility of cybersecurity experts, such as our prototypical security engineer from the previous example, to patch the holes left in the computer engineer's system.
