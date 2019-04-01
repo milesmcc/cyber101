@@ -17,6 +17,7 @@
     - [High-Level Concepts]()
     - [Filesystems]()
     - [Security Mechanisms]()
+    - [Virtualization]()
     - [Malware]()
     - [Exercises]()
 - [**Unit 3:** Networking & Telephony]()
