@@ -14,12 +14,17 @@ These course materials are meant to be worked through in the order they are list
 
 Note that this is _not_ a textbook. A textbook is self-contained; these materials are not. Each unit links heavily to readings created by experts in their respected fields. A fundamental idea in cryptography is to never "roll your own crypto," which is to say that you shouldn't implement complex encryption systems yourself. (Unless your name is on [this list](https://en.wikipedia.org/wiki/List_of_cryptographers), in which case, well, why are you here?) Instead, you should use a peer-reviewed implementation written by expert(s). 
 
+[what mindset should you have?]
+
+[what will you get from this? what won't you get?]
+
+[notes to teachers]
+
 ### Prerequisites
 
 This course assumes the following technical skills:
 
 * Fluency in Python 3
-* Some experience in designing computer systems for anyone other than oneself
 
 Perhaps more notable is what the course _does not_ assume knowledge of:
 
