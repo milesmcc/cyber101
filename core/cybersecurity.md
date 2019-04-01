@@ -14,7 +14,7 @@ Hacking, on the other hand, has an entirely different meaning. In the context of
 
 ---
 
-### [At Berkeley, a New Generation of “Ethical Hackers” Learns to Wage Cyberwar](https://www.newyorker.com/tech/annals-of-technology/at-berkeley-a-new-generation-of-ethical-hackers-learns-to-wage-cyberwar)
+### [At Berkeley, a New Generation of “Ethical Hackers” Learns to Wage Cyberwar](https://www.newyorker.com/tech/annals-of-technology/at-berkeley-a-new-generation-of-ethical-hackers-learns-to-wage-cyberwar) (The New Yorker)
 
 ![Article](https://img.shields.io/badge/Type-Article-success.svg)
 ![12:07 long](https://img.shields.io/badge/Duration-5m-yellow.svg)
