@@ -14,37 +14,6 @@ Hacking, on the other hand, has an entirely different meaning. In the context of
 
 ---
 
-### [At Berkeley, a New Generation of “Ethical Hackers” Learns to Wage Cyberwar](https://www.newyorker.com/tech/annals-of-technology/at-berkeley-a-new-generation-of-ethical-hackers-learns-to-wage-cyberwar) (The New Yorker)
-
-![Article](https://img.shields.io/badge/Type-Article-success.svg)
-![12:07 long](https://img.shields.io/badge/Duration-5m-yellow.svg)
-![Informational style](https://img.shields.io/badge/Style-Informational-informational.svg)
-
-This _New Yorker_ article follows students at UC Berkeley as they take part in a class on cyberwar and try to discover vulnerabilities in public software. As "ethical hackers," the students don't exploit the vulnerabilities they find — instead, they report them to the services themselves so that they can be fixed.
-
-### Key Topics
-
-* Ethical hacking
-* Hacker culture
-
----
-
-### [#ASUSGATE](https://darknetdiaries.com/episode/5/) (Darknet Diaries)
-
-![Podcast](https://img.shields.io/badge/Type-Podcast-success.svg)
-![25m long](https://img.shields.io/badge/Duration-25m-yellow.svg)
-![Informational style](https://img.shields.io/badge/Style-Informational-informational.svg)
-
-This podcast episode by Darknet Diaries follows a security engineer as he discovers critical security vulnerabilities in his ASUS home router.
-
-#### Key Topics
-
-* White hat and black hat hacking
-* Common security issues in consumer products
-* Cybersecurity regulation
-
---- 
-
 ### [How Do You Get Students to Think Like Criminals?](https://www.nytimes.com/2018/11/14/opinion/cybersecurity-education-skills.html) (New York Times)
 
 ![Article](https://img.shields.io/badge/Type-Article-success.svg)
@@ -72,3 +41,35 @@ Bruce Schneier, a world-renowned computer security expert, discusses the way com
 
 * The "hacking mindset"
 * Cybersecurity in the "real world"
+
+---
+
+### [At Berkeley, a New Generation of “Ethical Hackers” Learns to Wage Cyberwar](https://www.newyorker.com/tech/annals-of-technology/at-berkeley-a-new-generation-of-ethical-hackers-learns-to-wage-cyberwar) (The New Yorker)
+
+![Article](https://img.shields.io/badge/Type-Article-success.svg)
+![12:07 long](https://img.shields.io/badge/Duration-5m-yellow.svg)
+![Informational style](https://img.shields.io/badge/Style-Informational-informational.svg)
+
+This _New Yorker_ article follows students at UC Berkeley as they take part in a class on cyberwar and try to discover vulnerabilities in public software. As "ethical hackers," the students don't exploit the vulnerabilities they find — instead, they report them to the services themselves so that they can be fixed.
+
+#### Key Topics
+
+* Ethical hacking
+* Hacker culture
+
+---
+
+### [#ASUSGATE](https://darknetdiaries.com/episode/5/) (Darknet Diaries)
+
+![Podcast](https://img.shields.io/badge/Type-Podcast-success.svg)
+![25m long](https://img.shields.io/badge/Duration-25m-yellow.svg)
+![Informational style](https://img.shields.io/badge/Style-Informational-informational.svg)
+
+This podcast episode by Darknet Diaries follows a security engineer as he discovers critical security vulnerabilities in his ASUS home router.
+
+#### Key Topics
+
+* White hat and black hat hacking
+* Common security issues in consumer products
+* Cybersecurity regulation
+
