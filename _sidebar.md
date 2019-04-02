@@ -1,7 +1,7 @@
 - [**Course Overview**](/)
 - [**Unit 0:** Core Knowledge](/core/)
     - [Cybersecurity & Hacking](/core/cybersecurity)
-    - [Legal Context]()
+    - [Legal Context](/core/law)
     - [Attack Vectors]()
     - [Threat Modeling]()
     - [Exercises]()
@@ -38,3 +38,4 @@
     - [Bug Bounties]()
     - [Reporting Vulnerabilities]()
     - [Snake Oil]()
+    - [Note to Teachers](/teachers)
