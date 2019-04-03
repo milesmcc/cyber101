@@ -4,6 +4,8 @@ Cybercrime carries a harsh legal penalty — and sometimes, what constitutes cyb
 
 !> **Don't ever do anything that could be considered hacking if you aren't in a tightly controlled environment.** Unless you can be absolutely sure that your actions could not be interpreted as cybercrime, refrain from doing anything remotely related to security hacking or penetration testing. Acceptable security hacking includes analyzing and exploiting programs distributed explicitly as exercises on your own computer. Unacceptable security hacking, on the other hand, would be probing your own school's website for vulnerabilities without clear permission from top administrators. For your own sake, be careful.
 
+!> **This is not legal advice.** While these resources are meant to provide helpful guidance, they are not meant to be interpreted as official legal advice. If you're ever in trouble — and, if you follow the lessons in this unit, you won't be — always seek out a lawyer.
+
 ---
 
 ### [The Most Controversial Hacking Cases of the Past Decade](https://www.wired.com/2015/10/cfaa-computer-fraud-abuse-act-most-controversial-computer-hacking-cases/) (Wired)
