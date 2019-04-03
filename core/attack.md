@@ -1,10 +1,29 @@
 # Attack Vectors & Attack Surface
 
-A common idea in the world of cybersecurity is that of an 'attack vector.' Put simply, an attack vector is a potential vulnerability that can be exploited in order to, for example, gain unauthorized access to a system. An attack vector against a home might be an unsecured lock. An attack vector against a website might be an admin account with an insecure password. Against a large corporation, an attack vector might be employee's email accounts — after all, a cybercriminal could likely fool at least one employee into revealing their login credentials using a phishing email.
+A common idea in the world of cybersecurity is that of an 'attack surface.' [Wikipedia](https://en.wikipedia.org/wiki/Attack_surface) defines the concept of an attack surface quite well:
+
+> The attack surface of a software environment is the sum of the different points (the "attack vectors") where an unauthorized user (the "attacker") can try to enter data to or extract data from an environment. Keeping the attack surface as small as possible is a basic security measure. (Wikipedia, "Attack Surface")
+
+An attack vector against a home might be an unsecured lock. An attack vector against a website might be an admin account with an insecure password. Against a large corporation, an attack vector might be employee's email accounts — after all, a cybercriminal could likely fool at least one employee into revealing their login credentials using a phishing email. Taken together, attack vectors constitute an attack surface.
 
 ?> **This is important!** You'll need to fully understand the concept of attack vectors to understand the materials that will follow later in the course.
 
-The following readings are a collection of stories and technical documents that will give you a sense of what attack vectors are in the real world.
+The following readings are a collection of stories and technical documents that will give you a sense of what attack vectors and attack surfaces are in the real world.
+
+---
+
+### [Hacker Lexicon: What Is an Attack Surface?](https://www.wired.com/2017/03/hacker-lexicon-attack-surface/) (WIRED)
+
+![Article](https://img.shields.io/badge/Type-Article-success.svg)
+![10m long](https://img.shields.io/badge/Duration-10m-yellow.svg)
+![Informational style](https://img.shields.io/badge/Style-Informational-informational.svg)
+
+This Wired article provides a useful primer on the concept of an attack surface. Using the CIA Vault 7 leaks as an example, the story explores various analogies for attack surfaces in a clear, non-technical style.
+
+#### Key Topics
+
+* Virtual intrusions cause real scares
+* Investigation and prosecution of cybercrime
 
 ---
 
@@ -18,36 +37,22 @@ This NewScientist article describes the various attack vectors that UK governmen
 
 #### Key Topics
 
-* Cybercrime law in the United States
-* CFAA overreach
-* The unforgiving nature of large government bureaucracies
+* Vulnerabilities in the real world
+* Ethical hacking
+* Large attack surfaces
 
 ---
 
-### [15-Year-Old Admits Hacking NASA Computers](https://abcnews.go.com/Technology/story?id=119423&page=1) (ABC News)
+### [Most recent CVEs](https://twitter.com/cvenew?lang=en) (CVE Twitter)
 
-![Article](https://img.shields.io/badge/Type-Article-success.svg)
-![5m long](https://img.shields.io/badge/Duration-15m-yellow.svg)
-![Informational style](https://img.shields.io/badge/Style-Informational-informational.svg)
+![Tweets](https://img.shields.io/badge/Type-Tweets-success.svg)
+![10m long](https://img.shields.io/badge/Duration-10m-yellow.svg)
+![Technical style](https://img.shields.io/badge/Style-Technical-informational.svg)
 
-This ABC News article describes a 15-year-old cybercriminal who hacked NASA computers in 1999. As a direct result of the hack, NASA shut down the computer systems on the International Space Station for 21 days. The teenager was sentenced to 6 months in jail. 
-
-#### Key Topics
-
-* Virtual intrusions cause real scares
-* Investigation and prosecution of cybercrime
-
----
-
-### [Mapping the International Governance of Cybercrime](https://www.jstor.org/stable/resrep17311.10) (Centre for International Governance Innovation)
-
-![Academic](https://img.shields.io/badge/Type-Academic-success.svg)
-![20m long](https://img.shields.io/badge/Duration-15m-yellow.svg)
-![Formal style](https://img.shields.io/badge/Style-Formal-informational.svg)
-
-This academic report summarizes international anti-cybercrime initiatives. Because the Internet is highly international, so must be cybercrime prevention and prosecution. Notice how nearly every Internet-connected country has some sort of anti-cybercrime initiative.
+Read through the most recent twenty entries to the CVE database. Because each CVE represents a vulnerability and, by extension, a potential attack vector, think about the potential implicates of each one. (If you're interested, the National Institute of Standards maintains a similar database of vulnerabilities called [NVD](https://nvd.nist.gov/).)
 
 #### Key Topics
 
-* International cybercrime
-* Government involvement in cybercrime prevention
+* Attack vectors
+* Vulnerability logging
+* Public vulnerability disclosure
