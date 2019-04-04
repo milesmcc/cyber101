@@ -3,7 +3,7 @@
     - [Cybersecurity & Hacking](/core/cybersecurity)
     - [Legal Context](/core/law)
     - [Attack Surfaces](/core/attack)
-    - [Threat Modeling]()
+    - [Threat Modeling](/core/modeling)
     - [Exercises](/core/exercises)
 - [**Unit 1:** Cryptography]()
     - [Overview]()
