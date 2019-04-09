@@ -22,7 +22,7 @@ Put simply: understand each system's particular vulnerabilities, and pick your b
 
 This Electronic Frontier Foundation guide explores threat modeling as it relates to individuals. It is useful not only for understanding the questions you need to ask as part of a threat model, but also as a guide to secure your own online — and offline — life.
 
-#### Key Topics
+#### Key Questions
 
 * What is threat modeling?
 * How can threat modeling be applied to your own life?
@@ -37,7 +37,7 @@ This Electronic Frontier Foundation guide explores threat modeling as it relates
 
 This conference talk at LayerOne 2017 by security expert Dan Tentler explores threat modeling in the context of cybersecurity. To save time, you may consider watching this talk at 1.5x speed (with captions enabled). It provides highly useful, relevant, and distilled information, however, so do pay attention.
 
-#### Key Topics
+#### Key Questions
 
 * What are the key steps in threat modeling?
 * What are some of the common vulnerabilities that Dan explored in his talk? Can you describe how they work with some degree of confidence?
@@ -53,7 +53,7 @@ This conference talk at LayerOne 2017 by security expert Dan Tentler explores th
 
 This longform-style article by Ryan Gallagher explores his own process of threat modeling (and is strongly inspired by the previous two materials). In addition to summarizing common vulnerabilities and threat actors, the article also provides a substantial survey of common ideas and terms in cybersecurity that you'll want to be sure you understand.
 
-#### Key Topics
+#### Key Questions
 
 * How does the author's threat model differ from your own?
 * How is the author's threat model similar to your own?

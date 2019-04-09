@@ -16,7 +16,7 @@ Cybercrime carries a harsh legal penalty — and sometimes, what constitutes cyb
 
 This Wired article explores the most prolific (and controversial) computer hacking cases of the past ten years. Note how certain activities, such as browsing a publicly accessible website, were considered to constitute cybercrime by the Federal Government. The lesson: tread carefully.
 
-#### Key Topics
+#### Key Questions
 
 * What is the current cybercrime law in the United States?
 * Do you think the CFAA (Computer Fraud and Abuse Act) has been abused? Do you think it serves its original purpose?
@@ -32,7 +32,7 @@ This Wired article explores the most prolific (and controversial) computer hacki
 
 This ABC News article describes a 15-year-old cybercriminal who hacked NASA computers in 1999. As a direct result of the hack, NASA shut down the computer systems on the International Space Station for 21 days. The teenager was sentenced to 6 months in jail. 
 
-#### Key Topics
+#### Key Questions
 
 * What was the impact of the 15-year-old's digital intrusion?
 * How was the intrusion investigated?
@@ -48,7 +48,7 @@ This ABC News article describes a 15-year-old cybercriminal who hacked NASA comp
 
 This academic report summarizes international anti-cybercrime initiatives. Because the Internet is highly international, so must be cybercrime prevention and prosecution. Notice how nearly every Internet-connected country has some sort of anti-cybercrime initiative.
 
-#### Key Topics
+#### Key Questions
 
 * Does cybercrime exist at the international level?
 * How is international cybercrime prosecuted?

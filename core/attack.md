@@ -35,7 +35,7 @@ This Wired article provides a useful primer on the concept of an attack surface.
 
 This NewScientist article describes the various attack vectors that UK government websites have exposed — approximately 7,200 vulnerabilities in total.
 
-#### Key Topics
+#### Key Questions
 
 * What do real-world vulnerabilities look like?
 * What is ethical hacking?
@@ -51,7 +51,7 @@ This NewScientist article describes the various attack vectors that UK governmen
 
 Read through the most recent twenty entries to the Common Vulnerabilities and Exposures (CVE) database. Because each CVE represents a vulnerability and, by extension, a potential attack vector, think about the potential implicates of each one. (If you're interested, the National Institute of Standards maintains a similar database of vulnerabilities called [NVD](https://nvd.nist.gov/).) [your goal here isn't to ___, it's to _____]
 
-#### Key Topics
+#### Key Questions
 
 * What is an attack vector?
 * What is a vulnerability database? Why might this be useful?

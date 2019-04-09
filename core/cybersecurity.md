@@ -22,7 +22,7 @@ Hacking, on the other hand, has an entirely different meaning. In the context of
 
 This New York Times opinion piece by a computer security professor explores why learning cybersecurity requires students to think like criminals — even if they aren't breaking the law themselves.
 
-#### Key Topics
+#### Key Questions
 
 * What is the "hacking mindset"? Do you have it? How might you further develop yours?
 * What is the difference between the "hacking mindset" and simply _thinking outside the box_?
@@ -38,7 +38,7 @@ This New York Times opinion piece by a computer security professor explores why 
 
 Bruce Schneier, a world-renowned computer security expert, discusses the way computer security experts need to view systems in order to be effective.
 
-### Key Topics
+### Key Questions
 
 * What does the "hacking mindset" look like in the real world?
 * Where is the "hacking mindset" often absent?
@@ -54,7 +54,7 @@ Bruce Schneier, a world-renowned computer security expert, discusses the way com
 
 This _New Yorker_ article follows students at UC Berkeley as they take part in a class on cyberwar and try to discover vulnerabilities in public software. As "ethical hackers," the students don't exploit the vulnerabilities they find — instead, they report them to the services themselves so that they can be fixed.
 
-#### Key Topics
+#### Key Questions
 
 * What does it mean to be an "ethical hacker"?
 * What tools are available to "ethical hackers"?
@@ -70,7 +70,7 @@ This _New Yorker_ article follows students at UC Berkeley as they take part in a
 
 This podcast episode by Darknet Diaries follows a security engineer as he discovers critical security vulnerabilities in his ASUS home router.
 
-#### Key Topics
+#### Key Questions
 
 * What is the difference between "white hat" and "black hat" hacking?
 * Why is it that some consumer products are so prone to security issues?
