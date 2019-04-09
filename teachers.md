@@ -15,6 +15,20 @@ In addition to working through all the materials listed in the units, you may al
 * _Spam Nation_ by Brian Krebs
 * ...
 
+* prepare with real-world
+
 ### Shelf Life
 
 Cybersecurity, like computer technology generally, is an evolving field. While the security mindset lessons included in these materials will likely prove relevant far into the future, the technical materials will probably be obsolete after 8 to 10 years — if not sooner. If the year is 2030 and you're using these materials as they were written in 2019 — well, you probably shouldn't.
+
+### Active Reading and Discussion Questions
+
+After every reading, a number of discussion questions are listed. On days when other technical lectures or discussions are not planned, you may consider leading an open-ended conversation using the prior lesson's readings as a starting point.
+
+### Unit 0
+
+Unit 0 is entirely non-technical; its material, while a hugely important element of the course, does not involve any coding. This potentially leaves room for you to teach the basics of Python, for example, concurrently.
+
+### Group Exercises
+
+Some units have group exercises listed on their exercises page. [todo]
