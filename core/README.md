@@ -1,8 +1,8 @@
 # Unit 0: Core Knowledge
 
 ![4 topics](https://img.shields.io/badge/Topics-4-success.svg)
-![12 readings](https://img.shields.io/badge/Readings-12-yellow.svg)
-![2 exercises](https://img.shields.io/badge/Exercises-2-informational.svg)
+![13 readings](https://img.shields.io/badge/Readings-12-yellow.svg)
+![3 exercises](https://img.shields.io/badge/Exercises-2-informational.svg)
 
 Before diving in to topics like cryptography and networking, it's important to make sure that you're confident in the basics of cybersecurity. That means understanding the difference between 'white hat' and 'black hat' hacking, the potential legal ramifications for cybercrime, and concepts such as 'attack vectors' and 'threat modeling' — just to give a few examples.
 
