@@ -18,9 +18,9 @@ This Wired article explores the most prolific (and controversial) computer hacki
 
 #### Key Topics
 
-* Cybercrime law in the United States
-* CFAA overreach
-* The unforgiving nature of large government bureaucracies
+* What is the current cybercrime law in the United States?
+* Do you think the CFAA (Computer Fraud and Abuse Act) has been abused? Do you think it serves its original purpose?
+* How will you avoid getting yourself into a situation similar to those described in the article?
 
 ---
 
@@ -34,8 +34,9 @@ This ABC News article describes a 15-year-old cybercriminal who hacked NASA comp
 
 #### Key Topics
 
-* Virtual intrusions cause real scares
-* Investigation and prosecution of cybercrime
+* What was the impact of the 15-year-old's digital intrusion?
+* How was the intrusion investigated?
+* Do you identify at all with this 15-year-old?
 
 ---
 
@@ -49,5 +50,8 @@ This academic report summarizes international anti-cybercrime initiatives. Becau
 
 #### Key Topics
 
-* International cybercrime
-* Government involvement in cybercrime prevention
+* Does cybercrime exist at the international level?
+* How is international cybercrime prosecuted?
+* What is the involvement of national governments in preventing international cybercrime? Do they work together?
+
+[TODO: connect/verify with experts]

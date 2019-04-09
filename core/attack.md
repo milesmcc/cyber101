@@ -1,4 +1,4 @@
-# Attack Vectors & Attack Surface
+# Attack Vectors & Attack Surfaces
 
 A common idea in the world of cybersecurity is that of an 'attack surface.' [Wikipedia](https://en.wikipedia.org/wiki/Attack_surface) defines the concept of an attack surface quite well:
 
@@ -20,10 +20,10 @@ The following readings are a collection of stories and technical documents that 
 
 This Wired article provides a useful primer on the concept of an attack surface. Using the CIA Vault 7 leaks as an example, the story explores various analogies for attack surfaces in a clear, non-technical style.
 
-#### Key Topics
+#### Key Questions
 
-* Virtual intrusions cause real scares
-* Investigation and prosecution of cybercrime
+* How can virtual intrusions cause real scares?
+* What does the investigation and prosecution of cybercrime look like?
 
 ---
 
@@ -37,9 +37,9 @@ This NewScientist article describes the various attack vectors that UK governmen
 
 #### Key Topics
 
-* Vulnerabilities in the real world
-* Ethical hacking
-* Large attack surfaces
+* What do real-world vulnerabilities look like?
+* What is ethical hacking?
+* What does it mean to have a 'large attack surface'?
 
 ---
 
@@ -49,10 +49,10 @@ This NewScientist article describes the various attack vectors that UK governmen
 ![10m long](https://img.shields.io/badge/Duration-10m-yellow.svg)
 ![Technical style](https://img.shields.io/badge/Style-Technical-informational.svg)
 
-Read through the most recent twenty entries to the CVE database. Because each CVE represents a vulnerability and, by extension, a potential attack vector, think about the potential implicates of each one. (If you're interested, the National Institute of Standards maintains a similar database of vulnerabilities called [NVD](https://nvd.nist.gov/).)
+Read through the most recent twenty entries to the Common Vulnerabilities and Exposures (CVE) database. Because each CVE represents a vulnerability and, by extension, a potential attack vector, think about the potential implicates of each one. (If you're interested, the National Institute of Standards maintains a similar database of vulnerabilities called [NVD](https://nvd.nist.gov/).) [your goal here isn't to ___, it's to _____]
 
 #### Key Topics
 
-* Attack vectors
-* Vulnerability logging
-* Public vulnerability disclosure
+* What is an attack vector?
+* What is a vulnerability database? Why might this be useful?
+* What do you think the ideal vulnerability disclosure process would look like from the perspective of an ethical hacker? How about from the perspective of a company?

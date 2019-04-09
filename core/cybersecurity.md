@@ -24,8 +24,9 @@ This New York Times opinion piece by a computer security professor explores why 
 
 #### Key Topics
 
-* The "hacking mindset"
-* Cybersecurity in the classroom
+* What is the "hacking mindset"? Do you have it? How might you further develop yours?
+* What is the difference between the "hacking mindset" and simply _thinking outside the box_?
+* How might one learn cybersecurity in a classroom setting? How might one teach it?
 
 ---
 
@@ -39,8 +40,9 @@ Bruce Schneier, a world-renowned computer security expert, discusses the way com
 
 ### Key Topics
 
-* The "hacking mindset"
-* Cybersecurity in the "real world"
+* What does the "hacking mindset" look like in the real world?
+* Where is the "hacking mindset" often absent?
+* What does "cybersecurity" mean to non-technical companies (i.e. organizations where 'tech' plays a _supporting_, not _primary_, role)? How might this affect that organization's threat model and attack surface? How are threat modeling and employees' "hacking mindset" (or lack thereof) connected?
 
 ---
 
@@ -54,8 +56,9 @@ This _New Yorker_ article follows students at UC Berkeley as they take part in a
 
 #### Key Topics
 
-* Ethical hacking
-* Hacker culture
+* What does it mean to be an "ethical hacker"?
+* What tools are available to "ethical hackers"?
+* What is your perception of "hacker culture"? Do you identify with it at all?
 
 ---
 
@@ -69,7 +72,7 @@ This podcast episode by Darknet Diaries follows a security engineer as he discov
 
 #### Key Topics
 
-* White hat and black hat hacking
-* Common security issues in consumer products
-* Cybersecurity regulation
+* What is the difference between "white hat" and "black hat" hacking?
+* Why is it that some consumer products are so prone to security issues?
+* How might cybersecurity be regulated by the U.S. government? Should it be?
 

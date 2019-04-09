@@ -24,8 +24,8 @@ This Electronic Frontier Foundation guide explores threat modeling as it relates
 
 #### Key Topics
 
-* Threat modeling
-* Personal security
+* What is threat modeling?
+* How can threat modeling be applied to your own life?
 
 ---
 
@@ -39,9 +39,9 @@ This conference talk at LayerOne 2017 by security expert Dan Tentler explores th
 
 #### Key Topics
 
-* Threat modeling
-* Common vulnerabilities
-* Security pragmatism
+* What are the key steps in threat modeling?
+* What are some of the common vulnerabilities that Dan explored in his talk? Can you describe how they work with some degree of confidence?
+* What does it mean to be "pragmatic" when it comes to security? Is this necessarily a bad thing? Where does pragmatism intersect with threat modeling? (Hint: threat modeling _is_ a form of pragmatism, in a sense!)
 
 ---
 
@@ -55,6 +55,7 @@ This longform-style article by Ryan Gallagher explores his own process of threat
 
 #### Key Topics
 
-* Threat modeling
-* Common threat actors
-* Risk assessment
+* How does the author's threat model differ from your own?
+* How is the author's threat model similar to your own?
+* What are some common threat actors?
+* What is risk assessment? How does risk assessment relate to cybersecurity?
