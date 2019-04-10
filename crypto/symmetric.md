@@ -4,7 +4,7 @@ Now that you know what encryption is, we can now dive into specifics. The oldest
 
 More generally, symmetric cryptography refers to situations in which there is _symmetry of knowledge_ between communicating parties. For example, if Alice wants to communicate with Bob using a symmetric encryption algorithm, both Alice and Bob need to have a _shared key_ ahead of time.
 
-The following readings will introduce you to the fundamentals of symmetric cryptography, as well as several modern symmetric cryptographic algorithms, some of which are in active use on your own computer.
+The following readings will introduce you to the fundamentals of symmetric cryptography, as well as several modern symmetric cryptographic algorithms (some of which are in active use on your own computer).
 
 ---
 
