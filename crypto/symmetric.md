@@ -51,7 +51,7 @@ This introductory report provides a background on various different types of sym
 
 This 1Password company blog post by security expert Jeffrey Goldberg explains the company's usage of AES-128 (a modern symmetric cryptographic algorithm), and their decision to move to AES-256. In addition to exploring the nuances of AES in practice, Goldberg also provides useful advice about threat modeling a cryptography stack.
 
-_Note: if you see numbers such as `2128` in the article, these are incorrectly formatted exponentiations (i.e. `2128` is meant to be `2^128`).
+_Note: if you see numbers such as `2128` in the article, these are incorrectly formatted exponentiations (i.e. `2128` is meant to be `2^128`)._
 
 #### Key Questions
 
