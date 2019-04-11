@@ -2,6 +2,8 @@
 
 !> **Always be mindful of the law when completing cybersecurity exercises.** You can't go wrong with the exercises below — they do not involve any form of real-world penetration testing — but always keep the law in the back of your mind.
 
+---
+
 ### Unwanted Prank Defense
 
 ![Thought Experiment](https://img.shields.io/badge/Type-Thought%20Experiment-success.svg)
@@ -33,6 +35,8 @@ In each of the following situations, explore whether you think the person involv
 3. Elena sees her teacher, Mr. Lane, using a public computer in the computer lab. When Mr. Lane finishes working, Elena realizes that he forgot to log out of his account. With security in mind, she tries to log Mr. Lane out of the computer, but realizes that his login credentials are permanently stored on the computer. Although she tried, she doesn't know how to remove his account from the computer. Because she _really_ needs to finish her paper in time for her next class, she continues working (while Mr. Lane's account is logged in).
 
 4. Alex is tasked with creating a program for his computer science class that connects to the Internet. After submitting his project to his instructor, he realizes that his program has a security hole that could allow anyone to control the computer his code is running on. Nervous, he tries connecting to his teachers' computer, who is running the program on her own computer to grade it. Alex is able to successfully connect. Nervous that his teacher might be mad at him for the oversight and penalize his grade, he keeps quiet and does not tell his teacher anything.
+
+---
 
 ### Explore a CVE
 
