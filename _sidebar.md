@@ -10,7 +10,6 @@
     - [Symmetric Cryptography](/crypto/symmetric)
     - [Asymmetric Cryptography ](/crypto/asymmetric)
     - [Tools of the Trade](/crypto/tools)
-    - ['Cracking' Encryption](/crypto/cracking)
     - [Exercises](/crypto/exercises)
 - [**Unit 2:** Operating Systems & Malware]()
     - [Overview of Operating Systems]()
