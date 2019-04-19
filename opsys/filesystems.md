@@ -30,7 +30,7 @@ This presentation from CS161 at Harvard will introduce you to the key concepts o
 ![15m long](https://img.shields.io/badge/Duration-30m-yellow.svg)
 ![Technical style](https://img.shields.io/badge/Style-Technical-informational.svg)
 
-This Wikipedia explains what a "path" is on nearly all different operating systems. If you frequently work on the command line, the article's contents should be familiar. If not, it may seem foreign. Either way, read this article closely — many of the most significant operating systems deal with filesystems and, more specifically, the way _paths_ are handled.
+This Wikipedia explains what a "path" is on nearly all different operating systems. If you frequently work on the command line, the article's contents should be familiar. If not, that's fine too! Either way, read this article closely — many of the most significant operating systems deal with filesystems and, more specifically, the way _paths_ are handled.
 
 ?> **Beware of hidden files.** Though not covered in this article, you should also be familiar with the concept of a [hidden file](https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory). (Just skim the Wikipedia article and you'll know everything you need to know.)
 
