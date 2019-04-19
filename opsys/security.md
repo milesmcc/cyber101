@@ -1,6 +1,13 @@
 # Security Mechanisms
 
+Because operating systems provide the environment in which nearly all programs run, it's important that they remain secure. Operating systems maintain security in a few different ways, as we'll explore in the readings below. First, though, let's establish _what_ operating systems need to prevent against:
 
+* Users accessing other users' files (without permission)
+* Programs accessing other programs' memory (without permission)
+* External programs accessing the computer's memory or storage (without permission)
+* Programs taking unauthorized control over the system (malware)
+
+Of course, this isn't an exhaustive list. But these are some of the more fundamental security needs of an operating system; you'll want to keep them in mind as you learn about how operating systems work. It may help reveal _why_ they are designed that way.
 
 - users & permissions
 - memory virtualization
@@ -9,57 +16,50 @@
 
 ---
 
-### [Operating Systems: Crash Course Computer Science #18](https://www.youtube.com/watch?v=26QPDBe-NB8) (Crash Course)
+### Techniques for Securing the Operating System](https://www.ibm.com/support/knowledgecenter/en/SSEP7J_10.2.1/com.ibm.swg.ba.cognos.crn_arch.10.2.1.doc/c_securing_the_operating_system.html) (IBM Documentation)
 
-![Video](https://img.shields.io/badge/Type-Video-success.svg)
-![14m long](https://img.shields.io/badge/Duration-14m-yellow.svg)
-![Informational style](https://img.shields.io/badge/Style-Informational-informational.svg)
+![Documentation](https://img.shields.io/badge/Type-Documentation-success.svg)
+![15m long](https://img.shields.io/badge/Duration-15m-yellow.svg)
+![Technical style](https://img.shields.io/badge/Style-Technical-informational.svg)
 
-This Crash Course video will familiarize you with the history of operating systems as well as their major concepts. Consider watching this video at 1.5x speed, especially if you already feel comfortable with the concepts.
+This article from the IBM Documentation provides an overview of how to secure a UNIX-based operating system. While it doesn't explore how the security features work on a technical level, it does provide a good survey of what security features an end user (or system administrator) would interact with.
 
 ### Key Questions
 
-* What is an operating system?
-* What is a terminal?
-* What is memory protection?
-* What is multitasking?
-* What is the advantage of operating systems?
-* What are some common security features of operating systems?
+* What are users? What are administrators?
+* What is an account policy?
+* Where are (hashed!) passwords stored on UNIX-based operating systems?
+* What is patching?
 
 ---
 
-### [The 10 Operating System Concepts Software Developers Need to Remember](https://medium.com/cracking-the-data-science-interview/the-10-operating-system-concepts-software-developers-need-to-remember-480d0734d710) (James Le)
+### [Linux Permissions](http://linuxcommand.org/lc3_lts0090.php) (William Shotts)
 
-![Article](https://img.shields.io/badge/Type-Article-success.svg)
-![30m long](https://img.shields.io/badge/Duration-30m-yellow.svg)
+![Guide](https://img.shields.io/badge/Type-Guide-success.svg)
+![20m long](https://img.shields.io/badge/Duration-20m-yellow.svg)
 ![Technical style](https://img.shields.io/badge/Style-Technical-informational.svg)
 
-This "intro to operating systems" guide will introduce to nearly everything you need to know about operating systems. It dives a bit deeper into technical details than the Crash Course video, so read it closely. The concepts it covers will resurface frequently.
-
-You don't need to understand every single word in this article, but you should understand each _general idea_. If you find yourself zoning out or not understanding for more than three sentences, take a step back and try to understand again. You may even need to consult Wikipedia a few times!
+Permissions are a key concept on UNIX-like operating systems, and are in many ways analogous to Windows as well. (Mac OS X is a UNIX-like operating system.) This guide explains how permissions work on Linux, and why they are critical to maintaining system integrity.
 
 #### Key Questions
 
-* What is a process?
-* What is 'memory'? What is the stack? What is the heap? (And how is 'storage' separate?)
-* What is a thread? How does it differ from a process?
-* What is the kernel? What does it do?
-* What is shared memory? How do threads communicate?
-* What is virtualization?
-* What is a server? How does it differ from a 'normal' computer? What is 'the cloud'?
+* What are the three main types of permissions?
+* What does the permission `rw-r--r--` indicate?
+* What is the _superuser_?
 
 ---
 
-### [Kernel Definition](http://www.linfo.org/kernel.html) (Linfo.org)
+### [An Introduction to Qubes OS](https://www.qubes-os.org/intro/) (Qubes OS Team)
 
 ![Guide](https://img.shields.io/badge/Type-Guide-success.svg)
 ![10m long](https://img.shields.io/badge/Duration-10m-yellow.svg)
 ![Informational style](https://img.shields.io/badge/Style-Informational-informational.svg)
 
-This guide produced by Linux Info provides an introduction to the _kernel_. Though it is Linux-specific, its concepts translate to both Mac OS X and Windows.
+Qubes OS is a highly secure operating system that uses virtualization to maintain its integrity. Read through this guide and look up any concepts you don't understand online.
 
 #### Key Questions
 
-* What does the kernel do? Does the end-user ever interact with it?
-* What would be the 'opposite' of a kernel on a typical computer?
-* What is a monolithic kernel? What is a microkernel?
+* What is Qubes OS?
+* Why is Qubes OS "reasonably secure"?
+* Who is Qubes OS designed for? Would you ever use it?
+* What kind of security mechanisms does Qubes OS employ _on top_ of traditional operating system security techniques?
