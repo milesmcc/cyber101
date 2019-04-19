@@ -4,12 +4,6 @@ As with most high-level operating concepts, you probably have a good idea of wha
 
 In this unit, you'll learn about the internals of filesystems — how they work, why they work, and where they work.
 
-- intro
-- extv4, ntfs, etc
-- paths
-- dotfiles
-- encryption
-
 ---
 
 ### [Introduction to File Systems](http://www.eecs.harvard.edu/~cs161/notes/intro-file-systems.pdf) (Crash Course)

@@ -9,11 +9,6 @@ Because operating systems provide the environment in which nearly all programs r
 
 Of course, this isn't an exhaustive list. But these are some of the more fundamental security needs of an operating system; you'll want to keep them in mind as you learn about how operating systems work. It may help reveal _why_ they are designed that way.
 
-- users & permissions
-- memory virtualization
-- general virtualization
-- sandboxing
-
 ---
 
 ### Techniques for Securing the Operating System](https://www.ibm.com/support/knowledgecenter/en/SSEP7J_10.2.1/com.ibm.swg.ba.cognos.crn_arch.10.2.1.doc/c_securing_the_operating_system.html) (IBM Documentation)
