@@ -29,5 +29,3 @@ By the end of this unit, you should be able to confidently answer the following 
 * What is a key? What is a public key? What is a private key?
 * What is PGP? What is OTR? What is Signal? What's the difference?
 * What is a brute-force attack? What is a known-ciphertext attack? What are other common attacks on encryption?
-
-[for public key crypto, include the episode from "50 things that made the world economy" and https://www.nytimes.com/2013/08/18/magazine/laura-poitras-snowden.html?pagewanted=all]
