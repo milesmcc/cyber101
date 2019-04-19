@@ -39,7 +39,7 @@ This brief documentation for z/OS produced by IBM provides a succinct overview o
 
 * What does _enciphering_ mean? What is ciphertext? Is this different from _encryption_?
 * What is _deciphering_? Why is there no such thing as _deciphertext_?
-* What is hashing? How is it different from encryption?
+* What is hashing? How is it different from encryption? [what is one-way really mean?]
 * What is a digital signature? How is it useful?
 
 ---

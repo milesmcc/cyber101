@@ -50,7 +50,9 @@ In this exercise, you'll use PGP to send an encrypted email and verify the integ
 ![2h long](https://img.shields.io/badge/Duration-2h-yellow.svg)
 ![Primary skill cryptography engineering](https://img.shields.io/badge/Primary%20Skill-Cryptographic%20Engineering-informational.svg)
 
-In this exercise, your task is simple: design your own symmetric cryptographic algorithm! There are no strict requirements, but your algorithm _should_ provide some degree of confidentiality and integrity. Your algorithm need not necessarily be advanced; in fact, it will almost certainly _not_ be advanced. Nonetheless, you should devote some serious thinking about 
+In this exercise, your task is simple: design your own symmetric cryptographic algorithm! There are no strict requirements, but your algorithm _should_ provide some degree of confidentiality and integrity. Your algorithm need not necessarily be advanced; in fact, it will almost certainly _not_ be advanced.
+
+[add example]
 
 Once you design and implement your own cryptographic algorithm, respond to the following questions:
 
@@ -70,7 +72,7 @@ Below, you'll see the content of an encrypted email. Using your knowledge of PGP
 
 1. Who sent the email? How do you know?
 2. When did they send the email?
-3. To whom was the email sent? How do you know?
+3. To whom was the email sent? How do you know? [can these all be answered? verify]
 
 ```
 -----BEGIN PGP MESSAGE-----
@@ -107,3 +109,5 @@ zax/lgnnaqUduAFzKw==
 =Jy5J
 -----END PGP MESSAGE-----
 ```
+
+[add attack exercises; what would you do if I didn't tell you which cipher I used?]
