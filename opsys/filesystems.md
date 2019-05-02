@@ -6,7 +6,7 @@ In this unit, you'll learn about the internals of filesystems — how they work,
 
 ---
 
-### [Introduction to File Systems](http://www.eecs.harvard.edu/~cs161/notes/intro-file-systems.pdf) (Crash Course)
+### [Introduction to File Systems](http://www.eecs.harvard.edu/~cs161/notes/intro-file-systems.pdf) (EECS @ Harvard)
 
 ![Presentation](https://img.shields.io/badge/Type-Presentation-success.svg)
 ![15m long](https://img.shields.io/badge/Duration-16m-yellow.svg)

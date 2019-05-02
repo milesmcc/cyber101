@@ -12,7 +12,7 @@ You probably have an intuitive sense for what an operating system. In this subun
 
 This Crash Course video will familiarize you with the history of operating systems as well as their major concepts. Consider watching this video at 1.5x speed, especially if you already feel comfortable with the concepts.
 
-### Key Questions
+#### Key Questions
 
 * What is an operating system?
 * What is a terminal?
@@ -31,7 +31,7 @@ This Crash Course video will familiarize you with the history of operating syste
 
 This "intro to operating systems" guide will introduce to nearly everything you need to know about operating systems. It dives a bit deeper into technical details than the Crash Course video, so read it closely. The concepts it covers will resurface frequently.
 
-You don't need to understand every single word in this article, but you should understand each _general idea_. If you find yourself zoning out or not understanding for more than three sentences, take a step back and try to understand again. You may even need to consult Wikipedia a few times!
+You don't need to understand every single word in this article, but you should understand each _general idea_. If you find yourself not understanding for more than three sentences, take a step back and try to understand again. You may even need to consult Wikipedia a few times!
 
 #### Key Questions
 

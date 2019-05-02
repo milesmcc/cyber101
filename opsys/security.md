@@ -11,7 +11,7 @@ Of course, this isn't an exhaustive list. But these are some of the more fundame
 
 ---
 
-### Techniques for Securing the Operating System](https://www.ibm.com/support/knowledgecenter/en/SSEP7J_10.2.1/com.ibm.swg.ba.cognos.crn_arch.10.2.1.doc/c_securing_the_operating_system.html) (IBM Documentation)
+### [Techniques for Securing the Operating System](https://www.ibm.com/support/knowledgecenter/en/SSEP7J_10.2.1/com.ibm.swg.ba.cognos.crn_arch.10.2.1.doc/c_securing_the_operating_system.html) (IBM Documentation)
 
 ![Documentation](https://img.shields.io/badge/Type-Documentation-success.svg)
 ![15m long](https://img.shields.io/badge/Duration-15m-yellow.svg)
@@ -50,7 +50,7 @@ Permissions are a key concept on UNIX-like operating systems, and are in many wa
 ![10m long](https://img.shields.io/badge/Duration-10m-yellow.svg)
 ![Informational style](https://img.shields.io/badge/Style-Informational-informational.svg)
 
-Qubes OS is a highly secure operating system that uses virtualization to maintain its integrity. Read through this guide and look up any concepts you don't understand online.
+Qubes OS is a highly secure operating system that uses virtualization to maintain its integrity. Read through this guide and look up any concepts you don't understand online. You don't need to know the ins and outs of Qubes specifically, but think what its features suggest of vulnerabilities in other operating systems.
 
 #### Key Questions
 
