@@ -1,12 +1,12 @@
 # Unit 3: Networking & Telephony
 
-![4 topics](https://img.shields.io/badge/Topics-4-success.svg)
-![13 readings](https://img.shields.io/badge/Readings-12-yellow.svg)
-![3 exercises](https://img.shields.io/badge/Exercises-2-informational.svg)
+![3 topics](https://img.shields.io/badge/Topics-3-success.svg)
+![8 readings](https://img.shields.io/badge/Readings-8-yellow.svg)
+![0 exercises](https://img.shields.io/badge/Exercises-0-informational.svg)
 
-While malicious computer users likely date as far back as computer users themselves, the rise of networked systems &mdash; such as automated telephone prompts and the Internet &mdash; allowed for the rise of widespread computer exploitation. Once a system was connected to other systems, attack surfaces tended to increase exponentially; that is, each additional computer connected to a network meant yet another attack surface for every computer on that network.
+While malicious computer users likely date as far back as computers themselves, the rise of networked systems &mdash; such as automated telephone prompts and the Internet &mdash; allowed for the rise of widespread computer exploitation. Once a system was connected to other systems, attack surfaces tended to increase exponentially; that is, each additional computer connected to a network meant yet another attack surface for every other computer on that network. And networks tend to expand exponentially.
 
-In this unit, we will explore the rise of networked systems, how they work, and how they lend themselves to cyberattacks.
+In this unit, we will explore the rise of networked systems, how they work, and the never-ending battle for network security.
 
 ### Unit Questions
 
