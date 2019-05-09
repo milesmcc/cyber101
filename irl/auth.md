@@ -45,7 +45,7 @@ This Medium article by Anum Siddiqui goes into greater detail about the differen
 ### [Kill the Password: A String of Characters Won't Protect You](https://www.wired.com/2012/11/ff-mat-honan-password-hacker/) (Mat Honan)
 
 ![Article](https://img.shields.io/badge/Type-Article-success.svg)
-![25m long](https://img.shields.io/badge/Duration-10m-yellow.svg)
+![30m long](https://img.shields.io/badge/Duration-30m-yellow.svg)
 ![Story style](https://img.shields.io/badge/Style-Story-informational.svg)
 
 This article in ADMIN magazine explains how you can encrypt a filesystem (and why you should). Armed with your knowledge from the cryptography unit, you should be able to understand almost every idea in the article. (Don't worry too much about the code/shell commands on the second page, though.)
