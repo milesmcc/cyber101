@@ -68,11 +68,9 @@ Once you design and implement your own cryptographic algorithm, respond to the f
 ![45m long](https://img.shields.io/badge/Duration-45m-yellow.svg)
 ![Primary skill sleuthing](https://img.shields.io/badge/Primary%20Skill-Sleuthing-informational.svg)
 
-Below, you'll see the content of an encrypted email. Using your knowledge of PGP and its ecosystem, answer the following questions:
+Below, you'll see the content of an encrypted email. Using your knowledge of PGP and its ecosystem, figure out who the following message was sent to. (Note: there may be two possible recipients.)
 
-1. Who sent the email? How do you know?
-2. When did they send the email?
-3. To whom was the email sent? How do you know? [can these all be answered? verify]
+?> **You won't be able to read the message's contents.** Breaking PGP is not necessary to completing the assignment.
 
 ```
 -----BEGIN PGP MESSAGE-----
