@@ -13,9 +13,11 @@ In addition to working through all the materials listed in the units, you may al
 * _Dark Territory_ by Fred Kaplan
 * _Swiped_ by Adam Levin
 * _Spam Nation_ by Brian Krebs
-* ...
 
-* prepare with real-world
+I also recommend the following podcasts:
+
+* ["Darknet Diaries"](https://darknetdiaries.com/)
+* ["SANS Center StormCast"](https://isc.sans.edu/podcast.html)
 
 ### Shelf Life
 
@@ -28,10 +30,3 @@ After every reading, a number of discussion questions are listed. On days when o
 ### Unit 0
 
 Unit 0 is entirely non-technical; its material, while a hugely important element of the course, does not involve any coding. This potentially leaves room for you to teach the basics of Python, for example, concurrently.
-
-### Further Reading
-
-If you would like to do additional reading before teaching this course, I recommend the following books. Note that their content doesn't uniformly relate to the course material itself; instead, they are meant to give you a better understanding of the world of cybersecurity. To brush up on your "hard skills," I recommend working through all of the readings in each subunit.
-
-* _Spam Nation_ by Brian Krebs
-* _Data and Goliath_ by Bruce Schneier
