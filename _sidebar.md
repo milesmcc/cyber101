@@ -27,5 +27,5 @@
     - [Two-Factor Authentication](/irl/2fa)
     - [Common Web Exploits](/irl/web)
     - [Phishing](/irl/phishing)
-    - [Exercises](/irl/exercuses)
+    - [Exercises](/irl/exercises)
 - [Note to Teachers](/teachers)
