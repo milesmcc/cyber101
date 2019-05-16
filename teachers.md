@@ -29,6 +29,9 @@ After every reading, a number of discussion questions are listed. On days when o
 
 Unit 0 is entirely non-technical; its material, while a hugely important element of the course, does not involve any coding. This potentially leaves room for you to teach the basics of Python, for example, concurrently.
 
-### Group Exercises
+### Further Reading
 
-Some units have group exercises listed on their exercises page. [todo]
+If you would like to do additional reading before teaching this course, I recommend the following books. Note that their content doesn't uniformly relate to the course material itself; instead, they are meant to give you a better understanding of the world of cybersecurity. To brush up on your "hard skills," I recommend working through all of the readings in each subunit.
+
+* _Spam Nation_ by Brian Krebs
+* _Data and Goliath_ by Bruce Schneier
