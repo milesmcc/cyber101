@@ -53,5 +53,3 @@ This academic report summarizes international anti-cybercrime initiatives. Becau
 * Does cybercrime exist at the international level?
 * How is international cybercrime prosecuted?
 * What is the involvement of national governments in preventing international cybercrime? Do they work together?
-
-[TODO: connect/verify with experts]

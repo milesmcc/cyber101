@@ -1,7 +1,7 @@
 # Unit 2: Operating Systems & Malware
 
 ![4 topics](https://img.shields.io/badge/Topics-4-success.svg)
-![13 readings](https://img.shields.io/badge/Readings-12-yellow.svg)
+![12 readings](https://img.shields.io/badge/Readings-12-yellow.svg)
 ![3 exercises](https://img.shields.io/badge/Exercises-2-informational.svg)
 
 We use operating systems every day. In fact, you're probably using one as you read this text! If you're taking this class, you probably also have an idea of _which_ operating system you're using. On your laptop or desktop computer, it's likely either Mac OS X (stylized `macOS`), Windows, or some variant of Linux. On your phone, it's almost certainly iOS or Android.

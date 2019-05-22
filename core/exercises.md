@@ -42,7 +42,7 @@ In each of the following situations, explore whether you think the person involv
 
 ![Learning Experiment](https://img.shields.io/badge/Type-Learning%20Experiment-success.svg)
 ![45m long](https://img.shields.io/badge/Duration-45m-yellow.svg)
-![Primary skill is self-directed learning](https://img.shields.io/badge/Primary%20Skill-Self%2DDirected%20Learning-informational.svg)
+![Primary skill is self-directed learning](https://img.shields.io/badge/Primary%20Skill-Self%20Directed%20Learning-informational.svg)
 
 The [CVE database](https://cve.mitre.org/index.html) is an incredibly useful repository of information about common vulnerabilities in software. For this exercise, pick out a somewhat recent vulnerability (ideally, it will have been released within the past year) and learn about it. If you don't understand an acronym, look it up online. If you're not sure how a technology works, see if you can find the whitepaper or its documentation. Part of the "hacking mindset" is knowing that if you don't know something, you can always learn it with help from the Internet and those around you.
 

@@ -2,7 +2,7 @@
 
 ![4 topics](https://img.shields.io/badge/Topics-4-success.svg)
 ![13 readings](https://img.shields.io/badge/Readings-12-yellow.svg)
-![3 exercises](https://img.shields.io/badge/Exercises-2-informational.svg)
+![5 exercises](https://img.shields.io/badge/Exercises-5-informational.svg)
 
 Here's a common cryptography puzzle. Imagine you'd like to send a box to Alice, and you also want to make sure that no one except Alice can open the box. You don't trust anyone else &mdash; not even the Postal Service. Unfortunately, the only way you can send anything to Alice (including information) is by using the Postal Service. Assuming that you trust the locks on your safe and the safe itself, is there any way that you can send Alice the box securely without any prior coordination and still allowing her to open it herself?
 

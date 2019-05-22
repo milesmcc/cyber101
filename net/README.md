@@ -2,7 +2,7 @@
 
 ![3 topics](https://img.shields.io/badge/Topics-3-success.svg)
 ![8 readings](https://img.shields.io/badge/Readings-8-yellow.svg)
-![0 exercises](https://img.shields.io/badge/Exercises-0-informational.svg)
+![4 exercises](https://img.shields.io/badge/Exercises-4-informational.svg)
 
 While malicious computer users likely date as far back as computers themselves, the rise of networked systems &mdash; such as automated telephone prompts and the Internet &mdash; allowed for the rise of widespread computer exploitation. Once a system was connected to other systems, attack surfaces tended to increase exponentially; that is, each additional computer connected to a network meant yet another attack surface for every other computer on that network. And networks tend to expand exponentially.
 

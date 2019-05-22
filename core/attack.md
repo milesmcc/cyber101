@@ -49,7 +49,7 @@ This NewScientist article describes the various attack vectors that UK governmen
 ![10m long](https://img.shields.io/badge/Duration-10m-yellow.svg)
 ![Technical style](https://img.shields.io/badge/Style-Technical-informational.svg)
 
-Read through the most recent twenty entries to the Common Vulnerabilities and Exposures (CVE) database. Because each CVE represents a vulnerability and, by extension, a potential attack vector, think about the potential implicates of each one. (If you're interested, the National Institute of Standards maintains a similar database of vulnerabilities called [NVD](https://nvd.nist.gov/).) [your goal here isn't to ___, it's to _____]
+Read through the most recent twenty entries to the Common Vulnerabilities and Exposures (CVE) database. Because each CVE represents a vulnerability and, by extension, a potential attack vector, think about the potential implicates of each one. (If you're interested, the National Institute of Standards maintains a similar database of vulnerabilities called [NVD](https://nvd.nist.gov/).) Your goal here ins't to understand the intricate details of every CVE you see; you likely don't have the technical skills for that (yet). Instead, work to understand how the CVE system works, and how it may be useful.
 
 #### Key Questions
 

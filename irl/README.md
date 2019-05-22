@@ -1,8 +1,8 @@
 # Unit 4: Auth and Systems Design
 
-![3 topics](https://img.shields.io/badge/Topics-3-success.svg)
-![8 readings](https://img.shields.io/badge/Readings-8-yellow.svg)
-![0 exercises](https://img.shields.io/badge/Exercises-0-informational.svg)
+![4 topics](https://img.shields.io/badge/Topics-3-success.svg)
+![12 readings](https://img.shields.io/badge/Readings-8-yellow.svg)
+![3 exercises](https://img.shields.io/badge/Exercises-0-informational.svg)
 
 Up to this point, you've learned about cryptography, operating systems, telephones, networking, and malware. While you have hopefully developed a sense for what cybersecurity looks like in practice. In this unit, you will work to make this sense _concrete_. You will learn about what goes in to making secure real-world applications and systems.
 

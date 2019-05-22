@@ -108,4 +108,16 @@ zax/lgnnaqUduAFzKw==
 -----END PGP MESSAGE-----
 ```
 
-[add attack exercises; what would you do if I didn't tell you which cipher I used?]
+---
+
+![Real Task](https://img.shields.io/badge/Type-Real%20Task-success.svg)
+![20m long](https://img.shields.io/badge/Duration-45m-yellow.svg)
+![Primary skill deciphering](https://img.shields.io/badge/Primary%20Skill-Deciphering-informational.svg)
+
+This exercise is simple. Just decrypt the following ciphertext _without using any online tools_. All you know is that it was produced using a symmetric cipher. That's all.
+
+```
+Vtss rgft! Ngx rteknhztr zit ztbz. Oz zxkftr gxz zg
+wt q ctkn lodhst lxwlzozxzogf eohitk. O ight ngx xltr
+yktjxtfen qfqsnlol (qfr fgz wkxzt ygket) zg lgsct oz!
+```

@@ -104,7 +104,3 @@ In this open-ended lab, you will perform a security audit of this website! While
 1. What is this course website's threat model?
 2. What are two or three attack surfaces for this site?
 3. Were you able to identify any concrete vulnerabilities in this site? If so, have you thought about submitting a pull request on [GitHub](https://github.com/milesmcc/cyber101) to fix it?
-
----
-
-[do security audit of this website!]
