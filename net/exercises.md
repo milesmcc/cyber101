@@ -32,7 +32,7 @@ Once you've set up your server, work through the questions below. Note any diffi
 
 1. Perform a dump of the TCP traffic by running the command `sudo tcpdump`. If you'd like to save the output, run `sudo tcpdump > tcpdump.log`. Then, inspect the output of the TCP dump. Do you recognize parts of the output? What do you understand? What don't you understand?
 2. Figure out how to route the path `cybersecurity` to `learn.blueshells.net` on your Ubuntu server. (Hint: Google the `hosts` file.)
-3. Turn on UFW (Uncomplicated Firewall) to block traffic on all ports except 22 (SSH, which must remain open for you yourself to connect to the server).
+3. Turn on UFW (Uncomplicated Firewall) to block traffic on all ports except 22 (SSH, which must remain open for you yourself to connect to the server). How can you test that you were successful?
 
 ---
 
@@ -88,3 +88,23 @@ $ traceroute cs.auckland.ac.nz
 Notice how the request to `1.1.1.1` takes only eight 'hops,' while the request to `cs.auckland.ac.nz` takes 22. The reason why is simple: New Zealand is farther away than the nearest `1.1.1.1` access point.
 
 In this lab, experiment with the `traceroute`s of various hostnames. What does the output of `traceroute` represent? What does `* * *` mean? Predict whether the route for various hostnames will be short (< 8) or long (> 15), and try to imagine through which geographic regions your request might pass. What is the shortest route you can find? What is the _longest_ route? (Note: you may need to increase the maximum number of 'hops' from 30 to answer this one.) Are there any hops that your network traffic _always_ passes through?
+
+---
+
+### Audit This Site
+
+![Lab](https://img.shields.io/badge/Type-Lab-success.svg)
+![45m long](https://img.shields.io/badge/Duration-45m-yellow.svg)
+![Primary skill is security auditing](https://img.shields.io/badge/Primary%20Skill-Security%20Auditing-informational.svg)
+
+In this open-ended lab, you will perform a security audit of this website! While you should _not_ try to take the website down, for example, you _should_ look at the code and see how you could _theoretically_ cause problems.
+
+!> **You have permission to audit _this_ website, but no other!** Be careful that you don't do anything that could potentially even _resemble_ cybercrime.
+
+1. What is this course website's threat model?
+2. What are two or three attack surfaces for this site?
+3. Were you able to identify any concrete vulnerabilities in this site? If so, have you thought about submitting a pull request on [GitHub](https://github.com/milesmcc/cyber101) to fix it?
+
+---
+
+[do security audit of this website!]

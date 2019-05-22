@@ -36,11 +36,13 @@ Ubuntu is a popular GNU/Linux-based operating system for servers, phones, laptop
 
 ?> **Use Google as necessary.** Depending on your prior experience, you may find some of the tasks in this exercise very challenging. If you are unfamiliar with the command line or SSH, research these topics before continuing.
 
-1. Set up an Ubuntu VM (virtual machine) on a public cloud such as AWS or Google Cloud Platform. **Both platforms provide a free tier, and you should not be required to input billing details.**
-2. Connect to your server using either SSH or a web-based terminal.
-3. Perform the steps in [this tutorial](https://www.lifewire.com/harden-ubuntu-server-security-4178243) on how to secure an Ubuntu server.
-4. Run some code&mdash;maybe a Python script that you write yourself&mdash;on your server.
-5. Try to transfer a large file (maybe an image or something larger than 500KB) from your computer to your server, and from your server to your computer.
+As you work through these tasks, document your work in a text file (that will also be your final submission for this assignment).
+
+1. Set up an Ubuntu VM (virtual machine) on a public cloud such as AWS or Google Cloud Platform. **Both platforms provide a free tier, and you should not be required to input billing details.** Which provider did you choose, and why?
+2. Connect to your server using either SSH or a web-based terminal. Were you able to log in? How did you solve your problems in case you weren't originally able?
+3. Perform the steps in [this tutorial](https://www.lifewire.com/harden-ubuntu-server-security-4178243) on how to secure an Ubuntu server. Did any steps stick out to you? Do you understand what you did?
+4. Run some code&mdash;maybe a Python script that you write yourself&mdash;on your server. What did it do?
+5. Try to transfer a large file (maybe an image or something larger than 500KB) from your computer to your server, and from your server to your computer. Were the transfers successful?
 
 ---
 
