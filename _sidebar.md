@@ -29,3 +29,4 @@
     - [Phishing](/irl/phishing)
     - [Exercises](/irl/exercises)
 - [Note to Teachers](/teachers)
+- [Practice Exams](/exams)
